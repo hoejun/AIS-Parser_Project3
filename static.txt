@@ -1,0 +1,12 @@
+Type : 5
+정적 MMSI : 440007740
+선박명 : KUNMIN T7HO
+콜사인 : 105
+선박  Type : 
+
+Type : 5
+정적 MMSI : 370216000
+선박명 : HL DALRYMPLE BAY    
+콜사인 : 3FJC   
+선박  Type : QB
+
